@@ -1,0 +1,52 @@
+[
+	{
+		"id": 1,
+		"name": "Santiago Quevedo",
+		"email": "qesantiago@gmail.com",
+		"position": "Developer",
+		"salary": "3000000",
+		"phone": "3216055462",
+		"address": "Carrera 3 #8-23 sur",
+		"skills": "PHP, Symphony, GraphQL, HTML, jQuery"
+	},
+	{
+		"id": 2,
+		"name": "Fernando Quevedo",
+		"email": "fernandoquevedo5@gmail.com",
+		"position": "3d Animator",
+		"salary": "3000000",
+		"phone": "3152055416",
+		"address": "Carrera 3 #8-23 sur",
+		"skills": "Blender, Maya"
+	},
+	{
+		"id": 3,
+		"name": "Leydy Paola Chivata",
+		"email": "paola261115@gmail.com",
+		"position": "Secretary",
+		"salary": "2000000",
+		"phone": "3223504132",
+		"address": "Carrera 3 #8-23 sur",
+		"skills": ""
+	},
+	{
+		"id": 4,
+		"name": "Jairo Ruben Quevedo",
+		"email": "jaruquesy@gmail.com",
+		"position": "Seller",
+		"salary": "1500000",
+		"phone": "3216055462",
+		"address": "Carrera 3 #8-23 sur",
+		"skills": "Seller"
+	},
+	{
+		"id": 5,
+		"name": "Andres Gomes",
+		"email": "andresgomes@gmail.com",
+		"position": "Developer",
+		"salary": "3000000",
+		"phone": "3216055462",
+		"address": "Carrera 3 #8-23 sur",
+		"skills": "PHP, Symphony, GraphQL, HTML, jQuery"
+	}
+]
